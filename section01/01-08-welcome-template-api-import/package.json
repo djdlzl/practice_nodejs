@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.21"
+  },
+  "name": "01-08-welcome-template-api-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
+
